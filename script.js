@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Hello to me!");
+    alert("Hello !");
 }
